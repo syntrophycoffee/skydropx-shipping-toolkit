@@ -1,0 +1,5 @@
+country_code,hs_code,description_en,source_note
+US,0000.00.0000,"Example product description","Placeholder -- the US tariff schedule (HTSUS) is usually the most finely subdivided (10 digits, often split by material/variety/organic status etc). Replace with your own confirmed code."
+CA,0000.00.0000,"Example product description","Placeholder -- Canada's schedule may not subdivide as finely as the US for the same product. Replace with your own confirmed code."
+CN,0000.000000000,"Example product description","Placeholder -- China's codes can run longer (12+ digits) with extra classification suffixes. Replace with your own confirmed code."
+ES,0000.000000,"Example product description","Placeholder -- EU Combined Nomenclature; several EU member states often resolve to the SAME code for a simple product, with no further national subdivision. Replace with your own confirmed code."

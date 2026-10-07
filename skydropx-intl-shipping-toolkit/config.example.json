@@ -1,0 +1,38 @@
+{
+  "client_id": "YOUR_SKYDROPX_CLIENT_ID",
+  "client_secret": "YOUR_SKYDROPX_CLIENT_SECRET",
+  "oauth_url": "https://app.skydropx.com/api/v1/oauth/token",
+  "base_url": "https://api-pro.skydropx.com",
+  "origin": {
+    "name": "Your Company Name",
+    "company": "Your Company Name",
+    "street1": "Example Street",
+    "street_number": "123",
+    "postal_code": "00000",
+    "area_level1": "Your State/Province",
+    "area_level2": "Your City",
+    "area_level3": "Centro",
+    "country_code": "MX",
+    "phone": "0000000000",
+    "email": "you@example.com"
+  },
+  "parcel": {
+    "weight": 1.0,
+    "weight_unit": "kg",
+    "height": 10,
+    "width": 20,
+    "length": 15,
+    "dimension_unit": "cm"
+  },
+  "products": [
+    {
+      "description": "Example retail product",
+      "description_en": "Example retail product",
+      "hs_code": "0000.00.0000",
+      "country_code": "MX",
+      "quantity": 1,
+      "price": 100,
+      "weight": 1.0
+    }
+  ]
+}

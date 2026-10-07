@@ -1,0 +1,209 @@
+[
+  {
+    "label": "Weight sweep: 50g, thin flat envelope",
+    "weight": 0.05,
+    "weight_unit": "kg",
+    "height": 2,
+    "width": 15,
+    "length": 20,
+    "dimension_unit": "cm"
+  },
+  {
+    "label": "Weight sweep: 100g",
+    "weight": 0.1,
+    "weight_unit": "kg",
+    "height": 2,
+    "width": 15,
+    "length": 20,
+    "dimension_unit": "cm"
+  },
+  {
+    "label": "Weight sweep: 150g",
+    "weight": 0.15,
+    "weight_unit": "kg",
+    "height": 2,
+    "width": 15,
+    "length": 20,
+    "dimension_unit": "cm"
+  },
+  {
+    "label": "Weight sweep: 200g",
+    "weight": 0.2,
+    "weight_unit": "kg",
+    "height": 2,
+    "width": 15,
+    "length": 20,
+    "dimension_unit": "cm"
+  },
+  {
+    "label": "Weight sweep: 250g - the actual bag, no extra packaging",
+    "weight": 0.25,
+    "weight_unit": "kg",
+    "height": 2,
+    "width": 15,
+    "length": 20,
+    "dimension_unit": "cm"
+  },
+  {
+    "label": "Weight sweep: 270g - bag + light mailer",
+    "weight": 0.27,
+    "weight_unit": "kg",
+    "height": 2,
+    "width": 15,
+    "length": 20,
+    "dimension_unit": "cm"
+  },
+  {
+    "label": "Weight sweep: 300g - bag + padded mailer",
+    "weight": 0.3,
+    "weight_unit": "kg",
+    "height": 2,
+    "width": 15,
+    "length": 20,
+    "dimension_unit": "cm"
+  },
+  {
+    "label": "Weight sweep: 350g",
+    "weight": 0.35,
+    "weight_unit": "kg",
+    "height": 2,
+    "width": 15,
+    "length": 20,
+    "dimension_unit": "cm"
+  },
+  {
+    "label": "Weight sweep: 400g",
+    "weight": 0.4,
+    "weight_unit": "kg",
+    "height": 3,
+    "width": 15,
+    "length": 20,
+    "dimension_unit": "cm"
+  },
+  {
+    "label": "Weight sweep: 450g",
+    "weight": 0.45,
+    "weight_unit": "kg",
+    "height": 3,
+    "width": 15,
+    "length": 20,
+    "dimension_unit": "cm"
+  },
+  {
+    "label": "Weight sweep: 495g - just under 500g",
+    "weight": 0.495,
+    "weight_unit": "kg",
+    "height": 3,
+    "width": 15,
+    "length": 20,
+    "dimension_unit": "cm"
+  },
+  {
+    "label": "Weight sweep: 500g - exact, common carrier bracket",
+    "weight": 0.5,
+    "weight_unit": "kg",
+    "height": 3,
+    "width": 15,
+    "length": 20,
+    "dimension_unit": "cm"
+  },
+  {
+    "label": "Weight sweep: 505g - just over 500g",
+    "weight": 0.505,
+    "weight_unit": "kg",
+    "height": 3,
+    "width": 15,
+    "length": 20,
+    "dimension_unit": "cm"
+  },
+  {
+    "label": "Weight sweep: 600g",
+    "weight": 0.6,
+    "weight_unit": "kg",
+    "height": 3,
+    "width": 15,
+    "length": 20,
+    "dimension_unit": "cm"
+  },
+  {
+    "label": "Weight sweep: 750g - three bags",
+    "weight": 0.75,
+    "weight_unit": "kg",
+    "height": 5,
+    "width": 15,
+    "length": 20,
+    "dimension_unit": "cm"
+  },
+  {
+    "label": "Weight sweep: 1000g / 1kg - four bags, current default parcel",
+    "weight": 1.0,
+    "weight_unit": "kg",
+    "height": 5,
+    "width": 15,
+    "length": 20,
+    "dimension_unit": "cm"
+  },
+  {
+    "label": "Weight sweep: 1500g",
+    "weight": 1.5,
+    "weight_unit": "kg",
+    "height": 8,
+    "width": 15,
+    "length": 20,
+    "dimension_unit": "cm"
+  },
+  {
+    "label": "Weight sweep: 2000g / 2kg",
+    "weight": 2.0,
+    "weight_unit": "kg",
+    "height": 8,
+    "width": 15,
+    "length": 20,
+    "dimension_unit": "cm"
+  },
+  {
+    "label": "Weight sweep: 3000g / 3kg - upper end of range",
+    "weight": 3.0,
+    "weight_unit": "kg",
+    "height": 12,
+    "width": 15,
+    "length": 20,
+    "dimension_unit": "cm"
+  },
+  {
+    "label": "Shape sweep @300g: small flat box (5x15x20)",
+    "weight": 0.3,
+    "weight_unit": "kg",
+    "height": 5,
+    "width": 15,
+    "length": 20,
+    "dimension_unit": "cm"
+  },
+  {
+    "label": "Shape sweep @300g: cube-ish box (10x12x12, high DIM weight)",
+    "weight": 0.3,
+    "weight_unit": "kg",
+    "height": 10,
+    "width": 12,
+    "length": 12,
+    "dimension_unit": "cm"
+  },
+  {
+    "label": "Shape sweep @300g: tube/mailer (8x8x30)",
+    "weight": 0.3,
+    "weight_unit": "kg",
+    "height": 8,
+    "width": 8,
+    "length": 30,
+    "dimension_unit": "cm"
+  },
+  {
+    "label": "Shape sweep @300g: large padded envelope (2x20x28)",
+    "weight": 0.3,
+    "weight_unit": "kg",
+    "height": 2,
+    "width": 20,
+    "length": 28,
+    "dimension_unit": "cm"
+  }
+]

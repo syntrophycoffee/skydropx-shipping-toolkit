@@ -1,0 +1,21 @@
+label,postal_code,area_level2,area_level1,country_code,street1,street_number,name,phone,email,customs_group
+Toronto (Canada),M5H 2N2,Toronto,Ontario,CA,,,,,,North America
+Vancouver (Canada),V6B 1A1,Vancouver,British Columbia,CA,,,,,,North America
+Berlin (Germany),10115,Berlin,Berlin,DE,,,,,,EU Combined Nomenclature
+Paris (France),69001,Lyon,Auvergne-Rhone-Alpes,FR,,,,,,EU Combined Nomenclature
+Madrid (Spain),08001,Barcelona,Catalonia,ES,,,,,,EU Combined Nomenclature
+London (United Kingdom),B1 1AA,Birmingham,England,GB,,,,,,Standalone
+Dublin (Ireland),T12 FP71,Cork,Munster,IE,,,,,,EU Combined Nomenclature
+Rome (Italy),20100,Milan,Lombardy,IT,,,,,,EU Combined Nomenclature
+Stockholm (Sweden),411 03,Gothenburg,Vastra Gotaland,SE,,,,,,EU Combined Nomenclature
+Zurich (Switzerland),4001,Basel,Basel-Stadt,CH,,,,,,Standalone
+Tokyo (Japan),100-0001,Tokyo,Tokyo,JP,,,,,,Standalone
+Seoul (South Korea),47268,Busan,Busan,KR,,,,,,Standalone
+Singapore (Singapore),238823,Singapore,Singapore,SG,,,,,,Standalone
+Sydney (Australia),2000,Sydney,New South Wales,AU,,,,,,Standalone
+Auckland (New Zealand),1010,Auckland,Auckland,NZ,,,,,,Standalone
+Sao Paulo (Brazil),70000-000,Brasilia,Distrito Federal,BR,,,,,,Latin America
+Bogota (Colombia),130002,Cartagena,Bolivar,CO,,,,,,Latin America
+Santiago (Chile),1240000,Antofagasta,Antofagasta,CL,,,,,,Latin America
+Cape Town (South Africa),8000,Cape Town,Western Cape,ZA,,,,,,Standalone
+Mumbai (India),380001,Ahmedabad,Gujarat,IN,,,,,,Standalone

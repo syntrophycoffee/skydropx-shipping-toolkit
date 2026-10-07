@@ -1,0 +1,6 @@
+label,postal_code,area_level2,area_level1,country_code,street1,street_number,name,phone,email
+Mexico City,06700,Ciudad de Mexico,Ciudad de Mexico,MX,,,,,
+Guadalajara,44100,Guadalajara,Jalisco,MX,,,,,
+Monterrey,64000,Monterrey,Nuevo Leon,MX,,,,,
+Los Angeles USA,90001,Los Angeles,California,US,,,,,
+Hong Kong,999077,Hong Kong,Hong Kong,HK,,,,,
